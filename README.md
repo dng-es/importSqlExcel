@@ -2,5 +2,5 @@ importSqlExcel
 ==============
 
 VisualStudio 2008 project.
-Import data from Sql queries or Excel files to the target database
+Import data from MySql database or Excel files to the target MySql database.
 
